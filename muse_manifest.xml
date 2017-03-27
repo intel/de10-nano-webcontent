@@ -1,0 +1,79 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="192.168.7.1" resolutions="1x" timestamp="1490647893151">
+  <folder name="css">
+    <file name="site_global.css" crc="4086789311"/>
+    <file name="master_a-master.css" crc="388802026" ref="develop:learn:index:play"/>
+    <file name="develop.css" crc="295982550" ref="develop"/>
+    <file name="learn.css" crc="4266779483" ref="learn"/>
+    <file name="index.css" crc="489336207" ref="index"/>
+    <file name="play.css" crc="533699867" ref="play"/>
+  </folder>
+  <folder name="assets">
+    <file name="de10-nano_silk-bot.pdf" crc="394018518" seo="true" mt="1484278995000"/>
+    <file name="de10-nano_silk-top.pdf" crc="3995275055" seo="true" mt="1484278995000"/>
+    <file name="fft-benchmark-conditions.pdf" crc="225808476" seo="true" mt="1488238726000"/>
+    <file name="de10-nano_user_manual.pdf" crc="368452620" seo="true" mt="1488900816000"/>
+    <file name="image-version-info.txt" crc="3899933777" seo="true" mt="1490574789000"/>
+    <file name="pdf.gif" crc="163978678" seo="true" mt="1490574844000"/>
+    <file name="de10-nano-schematic.pdf" crc="9235926" seo="true" mt="1489075482000"/>
+    <file name="fft-benchmark-conditions2.pdf" crc="225808476" seo="true" mt="1489075482000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:play:develop:learn"/>
+    <file name="museutils.js" crc="4148063285" ref="index:play:develop:learn"/>
+    <file name="whatinput.js" crc="86476730" ref="index:play:develop:learn"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:play:develop:learn"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:play:develop:learn"/>
+    <file name="webpro.js" crc="3986320349" ref="index:play:develop:learn"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index:play:develop:learn"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:play:develop:learn"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:play:develop:learn"/>
+    <file name="require.js" crc="4159430777" ref="index:play:develop:learn"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="develop"/>
+  </folder>
+  <folder name="images">
+    <file name="de10-nanoc_block_diagram.jpg" crc="256953238" seo="true" ref="index"/>
+    <file name="de10-nano system block diagram.jpg" crc="3874296116" seo="true" ref="index"/>
+    <file name="board top.jpg" crc="59945978" seo="true" ref="index"/>
+    <file name="board bottom.jpg" crc="4034603010" seo="true" ref="index"/>
+    <file name="de10-nano_msel_sdcard.jpg" crc="4274690953" seo="true" ref="index"/>
+    <file name="config switches table.jpg" crc="3988633234" seo="true" ref="index"/>
+    <file name="board push buttons.jpg" crc="243077579" seo="true" ref="index"/>
+    <file name="hps_reset_tree.jpg" crc="3770232850" seo="true" ref="index"/>
+    <file name="reset table.jpg" crc="449029779" seo="true" ref="index"/>
+    <file name="user_pushbuttons.jpg" crc="329592019" seo="true" ref="index"/>
+    <file name="slide_switches.jpg" crc="4107215453" seo="true" ref="index"/>
+    <file name="user push button table.jpg" crc="3763288985" seo="true" ref="index"/>
+    <file name="slide switch table.jpg" crc="436653711" seo="true" ref="index"/>
+    <file name="board leds.jpg" crc="4057969960" seo="true" ref="index"/>
+    <file name="led table.jpg" crc="3826570143" seo="true" ref="index"/>
+    <file name="user_leds.jpg" crc="94995492" seo="true" ref="index"/>
+    <file name="user led table.jpg" crc="151884518" seo="true" ref="index"/>
+    <file name="arduino pin-out.jpg" crc="94714440" seo="true" ref="index"/>
+    <file name="arduino_ad_converter_connections.jpg" crc="4157094112" seo="true" ref="index"/>
+    <file name="20-pin headers.jpg" crc="264909115" seo="true" ref="index"/>
+    <file name="20-pin header pin-out.jpg" crc="4189149592" seo="true" ref="index"/>
+    <file name="de10-nano_leds_block_diagram.jpg" crc="3825713749" seo="true" ref="play"/>
+    <file name="sfft5.png" crc="4185703515" seo="true" ref="play"/>
+    <file name="fft cpu source cpu process.jpg" crc="3861124404" seo="true" ref="play"/>
+    <file name="fft cpu source fpga process.jpg" crc="3894750392" seo="true" ref="play"/>
+    <file name="fft fpga source cpu process.jpg" crc="519205329" seo="true" ref="play"/>
+    <file name="fft fpga source fpga process.jpg" crc="4224810181" seo="true" ref="play"/>
+    <file name="alteraopensource-normal.png" crc="4100489691" ref="develop"/>
+    <file name="alteraopensource-rollover.jpg" crc="346698539" ref="develop"/>
+    <file name="boot_flow.jpg" crc="3775540936" seo="true" ref="learn"/>
+    <file name="handoff.jpg" crc="3967898808" seo="true" ref="learn"/>
+    <file name="boot-cpu_first.jpg" crc="4128884226" seo="true" ref="learn"/>
+    <file name="boot-independent.jpg" crc="508033116" seo="true" ref="learn"/>
+    <file name="boot_fpga_first.jpg" crc="222757031" seo="true" ref="learn"/>
+    <file name="config switches.jpg" crc="3960350270" seo="true" ref="learn"/>
+    <file name="soc_bridges.jpg" crc="199273124" seo="true" ref="learn"/>
+    <file name="register_view.jpg" crc="418281144" seo="true" ref="learn"/>
+    <file name="other_if.jpg" crc="82722835" seo="true" ref="learn"/>
+    <file name="ecosystem.jpg" crc="3847525910" seo="true" ref="learn"/>
+    <file name="fpgas-for-dummies_sm.jpg" crc="368118748" seo="true" ref="learn"/>
+  </folder>
+  <file name="index.html" crc="3801561693" seo="true" mt="1490627518152" redirect="true"/>
+  <file name="play.html" crc="64420783" seo="true" mt="1490627592024" redirect="true"/>
+  <file name="develop.html" crc="455384778" seo="true" mt="1490628000749" redirect="true"/>
+  <file name="learn.html" crc="4003872353" seo="true" mt="1490632153664" redirect="true"/>
+</manifest>
