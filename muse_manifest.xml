@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="192.168.7.1" resolutions="1x" timestamp="1490647893151">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="192.168.7.1" resolutions="1x" timestamp="1490922081690">
   <folder name="css">
     <file name="site_global.css" crc="4086789311"/>
-    <file name="master_a-master.css" crc="388802026" ref="develop:learn:index:play"/>
-    <file name="develop.css" crc="295982550" ref="develop"/>
+    <file name="master_a-master.css" crc="388802026" ref="learn:play:develop:index"/>
     <file name="learn.css" crc="4266779483" ref="learn"/>
-    <file name="index.css" crc="489336207" ref="index"/>
     <file name="play.css" crc="533699867" ref="play"/>
+    <file name="develop.css" crc="295982550" ref="develop"/>
+    <file name="index.css" crc="489336207" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="de10-nano_silk-bot.pdf" crc="394018518" seo="true" mt="1484278995000"/>
@@ -74,6 +74,6 @@
   </folder>
   <file name="index.html" crc="3801561693" seo="true" mt="1490627518152" redirect="true"/>
   <file name="play.html" crc="64420783" seo="true" mt="1490627592024" redirect="true"/>
-  <file name="develop.html" crc="455384778" seo="true" mt="1490628000749" redirect="true"/>
+  <file name="develop.html" crc="320882759" seo="true" mt="1490920471319" redirect="true"/>
   <file name="learn.html" crc="4003872353" seo="true" mt="1490632153664" redirect="true"/>
 </manifest>
